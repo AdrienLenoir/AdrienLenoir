@@ -25,6 +25,6 @@ Git & git flow, github & gitlab
 Affinity designer, photoshop.
 
 ## Liens
-* [adrienlenoir.be](https://adrienlenoir.be/) - Mon site personnel
+* [adrienlenoir.be](https://adrienlenoir.be/) (Mon site personnel)
 * [Mon linkedin](https://www.linkedin.com/in/adrien-lenoir-9b2635205/)
 * [Mon CV](https://www.canva.com/design/DAEr2MVDk7o/WCtXgtCpCxEXIIamvEqH8A/view?utm_content=DAEr2MVDk7o&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
